@@ -10,6 +10,7 @@ Light is a cutting-edge tipping bot designed exclusively for Discord, revolution
 - Automatically generates clickable transaction links (Marked in blue) within its response messages.
 - Rigorous testing has been done using ganache to ensure the bot functions as intended without any bugs or vulnerabilities.
 - Currently configured to run on Arbitrum but can be changed to run on any EVM-compatible chain like Ethereum, BSC, Optimism etc.
+
    
 # Commands 
 
@@ -24,3 +25,26 @@ Light is a cutting-edge tipping bot designed exclusively for Discord, revolution
 
 ## tip 
 https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot/assets/52592149/d934d8f1-06cc-4d37-be76-ee0e52540495
+
+# Setup
+- Clone the repo 
+```
+   https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot.git
+```
+- Install the dependencies from requirements.txt
+- Create a discord bot from https://discord.com/developers and paste the token in a variable called DISCORDTOKEN in the .env file.
+- Configure the RPCURL variable depending on whether you want to test locally or on a real blockchain.
+- You're ready to go!
+
+### Recommendation for production use 
+- Use a more secure and robust database system for storing and retreving private keys.
+- Throughly test tokens other than $ETH if you wish to add them.
+- Change the fees collected address and the fees percentage (Currently set to 0.02%).
+
+# Reporting Bugs and Issues
+If you encounter any bugs or have suggestions for improvements, please open an issue on the GitHub repository. Provide as much detail as possible, including steps to reproduce the issue and the expected behavior.
+
+
+
+  
+
