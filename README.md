@@ -26,6 +26,13 @@ Light is a cutting-edge tipping bot designed exclusively for Discord, revolution
 ## tip 
 https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot/assets/52592149/d934d8f1-06cc-4d37-be76-ee0e52540495
 
+# Error Handling 
+Extensive error handling and checks have been implemented to ensure best performance. Few examples are provided below.
+![Screenshot 2023-07-23 145206](https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot/assets/52592149/849e015e-1c23-4143-80fe-b2e4dbc742e0)
+![Screenshot 2023-07-23 145441](https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot/assets/52592149/3e11c6e3-b890-48e7-83f6-230ce41ea663)
+![Screenshot 2023-07-23 145145](https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot/assets/52592149/3d870cb1-6788-41fa-a54c-583b0f3dd9e7)
+
+
 # Setup
 - Clone the repo 
 ```
