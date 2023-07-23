@@ -29,12 +29,12 @@ https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot/assets/52592149/d934d8f1-
 # Setup
 - Clone the repo 
 ```
-   https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot.git
+   git clone https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot.git
 ```
 - Install the dependencies from requirements.txt
 - Create a discord bot from https://discord.com/developers and paste the token in a variable called DISCORDTOKEN in the .env file.
 - Configure the RPCURL variable depending on whether you want to test locally or on a real blockchain.
-- You're ready to go!
+- Run DiscordTxnBot.py
 
 ### Recommendation for production use 
 - Use a more secure and robust database system for storing and retreving private keys.
