@@ -18,7 +18,7 @@ rpcURL = 'https://rpc.ankr.com/arbitrum'
 web3 = Web3(Web3.HTTPProvider(rpcURL))
 
 Todo = Query()   
-db = TinyDB("tcbotkeysV2.json")
+db = TinyDB("txnbotkeys.json")
 
 Arb = "0x912ce59144191c1204e64559fe8253a0e49e6548"
 
