@@ -8,7 +8,7 @@ from tinydb import Query
 import math
 from web3.middleware import geth_poa_middleware
 from dotenv import dotenv_values
-from txnBotAbiFile import abi
+from TxnBotAbiFile import abi
 
 config = dotenv_values(".env")
 
