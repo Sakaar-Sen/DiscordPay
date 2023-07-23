@@ -1,7 +1,7 @@
 # Discord-Web3-Tipping-Bot
 A Web3 Discord tipping bot that runs on Arbitrum. 
 
-# Description
+## Description
 Light is a cutting-edge tipping bot designed exclusively for Discord, revolutionizing the way you make payments and show appreciation to other users in your favorite servers. 
 
 # Features 
