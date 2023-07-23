@@ -41,8 +41,9 @@ https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot/assets/52592149/d934d8f1-
 - Throughly test tokens other than $ETH if you wish to add them.
 - Change the fees collected address and the fees percentage (Currently set to 0.02%).
 
-# Reporting Bugs and Issues
-If you encounter any bugs or have suggestions for improvements, please open an issue on the GitHub repository. Provide as much detail as possible, including steps to reproduce the issue and the expected behavior.
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 
 
 
