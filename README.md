@@ -1,6 +1,3 @@
-# DiscordPay
-A Web3 Discord payments bot that runs on Arbitrum. 
-
 ## Description
 Introducing a cutting-edge Web3 payment bot designed exclusively for Discord, enabling seamless blockchain transactions and decentralized payments. Revolutionize the way you make payments and show appreciation to fellow users in your favorite servers using the power of Arbitrum.
 
