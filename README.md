@@ -1,8 +1,8 @@
-# Discord-Web3-Tipping-Bot
-A Web3 Discord tipping bot that runs on Arbitrum. 
+# DiscordPay
+A Web3 Discord payments bot that runs on Arbitrum. 
 
 ## Description
-Light is a cutting-edge tipping bot designed exclusively for Discord, revolutionizing the way you make payments and show appreciation to other users in your favorite servers. 
+Introducing a cutting-edge Web3 payment bot designed exclusively for Discord, enabling seamless blockchain transactions and decentralized payments. Revolutionize the way you make payments and show appreciation to fellow users in your favorite servers using the power of Arbitrum.
 
 # Features 
 - Simple to use; With a few easy-to-remember commands, users can send and receive payments and participate in a generous and engaging community.
@@ -10,7 +10,6 @@ Light is a cutting-edge tipping bot designed exclusively for Discord, revolution
 - Automatically generates clickable transaction links (marked in blue) which redirect to the blockchain explorer within its response messages.
 - Rigorous testing has been done using ganache to ensure the bot functions as intended without any bugs or vulnerabilities.
 - Currently configured to run on Arbitrum but can be changed to run on any EVM-compatible chain like Ethereum, BSC, Optimism etc.
-
    
 # Commands 
 
