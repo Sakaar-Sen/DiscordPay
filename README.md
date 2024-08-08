@@ -32,7 +32,7 @@ Extensive error handling and checks have been implemented to ensure best perform
 # Setup
 - Clone the repo 
 ```
-   git clone https://github.com/Sakaar-Sen/Discord-Web3-Tipping-Bot.git
+   git clone https://github.com/Sakaar-Sen/DiscordPay.git
 ```
 - Install the dependencies from requirements.txt
 - Create a discord bot from https://discord.com/developers and paste the token in a variable called DISCORDTOKEN in the .env file.
