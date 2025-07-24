@@ -40,7 +40,6 @@ Extensive error handling and checks have been implemented to ensure best perform
 - Run DiscordTxnBot.py
 
 ### Recommendation for production use 
-- Use a more secure and robust database system for storing and retreving private keys. Currently using tinyDb.
 - Throughly test tokens other than $ETH if you wish to add them.
 - Change the fees collected address and the fees percentage (Currently set to 0.02%).
 
